@@ -1,4 +1,4 @@
-# Ineuron_Internship
+# Ineuron Internship
 
 **Objective** 🎯
 
