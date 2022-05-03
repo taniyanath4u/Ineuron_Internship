@@ -46,8 +46,4 @@ Jupyter Notebook, MS Excel, Tableau
 
 **LinkedIn Post** 📲
 
-TBD
-
-**Youtube Video** 🎬
-
-TBD
+https://www.linkedin.com/posts/taniyanath_heart-disease-diagnostic-analysis-activity-6927213437492084736-iigF?utm_source=linkedin_share&utm_medium=member_desktop_web
